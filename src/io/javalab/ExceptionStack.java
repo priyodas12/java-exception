@@ -1,8 +1,7 @@
 package io.javalab;
 
-public class Main {
-
+public class ExceptionStack {
     public static void main(String[] args) {
-	// write your code here
+
     }
 }
