@@ -9,10 +9,11 @@ public class ExceptionStack {
 
     private static void doThat() {
         System.out.println("do That");
+        // put debug point
         System.out.println(10/0);
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
         doThis();
     }
 }
